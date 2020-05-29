@@ -1,2 +1,2 @@
 # Prakriti-Organics
-website for Prakriti Organics
+Website for Prakriti Organics
